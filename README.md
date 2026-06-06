@@ -1,100 +1,62 @@
-<div align="center">
+# Bruno — Backend & Security
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=818CF8&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Bruno+%F0%9F%91%8B;CS+Student+%40+UA;Building+things+end-to-end" alt="Typing SVG" />
+Third-year Computer Science student at the University of Alicante (computing track).
+I build backends and security tooling: APIs that hold up under real use, scanners that
+find actual problems, and systems that work end to end.
 
-<p>
-  3rd year Computer Science · Computing specialisation · University of Alicante<br/>
-  Interested in security, systems and making things that actually work
-</p>
+Right now I'm going deeper into systems programming and web security — and learning by
+shipping projects rather than tutorials.
 
-<a href="mailto:bruno20051121@gmail.com">
-  <img src="https://img.shields.io/badge/email-bruno20051121%40gmail.com-818cf8?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=bruno0564&style=flat-square&color=818cf8&label=profile+views" />
+**Open to internships and junior roles in backend or security** — remote or based in Spain.
 
-</div>
+## Tech I work with
 
----
+**Languages**
 
-### 🛠 Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 
-<div align="center">
+**Backend & data**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,cs,dotnet,php,laravel,cpp,java,sqlite,git,linux,bash,vite&theme=dark" />
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-</div>
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 
-### 🚀 Personal projects
+**Environment & tools**
 
-<table>
-<tr>
-<td width="50%">
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**[Logpose](https://github.com/bruno0564/logpose-api)**
+## What I'm building
 
-Personal life tracking app — weight, gym, journal, calendar, to-do.
+**[logpose](https://github.com/bruno0564/logpose-api)** — a life-tracking app for weight,
+gym, journal and calendar. FastAPI + SQLAlchemy backend covered by 220 integration tests,
+a React + Tauri desktop client and a React Native app, all offline-first with two-way sync.
+*Python · FastAPI · React · Tauri · React Native*
 
-- Python / FastAPI / SQLAlchemy backend
-- React + Tauri desktop (Linux native)
-- React Native standalone APK
-- Offline-first with bidirectional sync
-- 220 integration tests
+**[vulnscan](https://github.com/bruno0564/vulnscan)** — a web vulnerability scanner written
+from scratch. It checks security headers, cookie flags, CORS misconfigurations and exposed
+paths. No scanning frameworks — every detection rule is my own.
+*Python · web security*
 
-</td>
-<td width="50%">
+**[ragbase](https://github.com/bruno0564/ragbase)** — ask questions about your own documents.
+PDFs get chunked, embedded and searched locally, with no API key required.
+*FastAPI · ChromaDB · React*
 
-**[vulnscan](https://github.com/bruno0564/vulnscan)**
+A few from university: **LetterUA** (rate-my-professor platform, React + ASP.NET Core),
+**DSS** (team project manager, Laravel) and **GameSeller** (game store, ASP.NET + SQL Server).
 
-Web vulnerability scanner built from scratch.
+## Get in touch
 
-- Security headers · Cookie flags
-- CORS misconfigurations
-- Exposed paths & endpoints
-- No scanning frameworks — logic written from zero
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[ragbase](https://github.com/bruno0564/ragbase)**
-
-RAG system for querying your own documents.
-
-- Upload PDFs → chunk → embed → search
-- Local embeddings (no API key needed)
-- FastAPI + ChromaDB + React
-
-</td>
-<td width="50%">
-
-**University projects**
-
-- **LetterUA** — rate-my-professor platform · React + ASP.NET Core · AI summaries
-- **DSS** — team project manager · Laravel · clean service layer
-- **GameSeller** — game store · ASP.NET WebForms · SQL Server
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bruno0564&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno0564&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
-
-</div>
-
----
-
-<div align="center">
-<sub>Arch Linux · Hyprland · always in a terminal</sub>
-</div>
+[![Email](https://img.shields.io/badge/bruno20051121@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bruno20051121@gmail.com)
+<!-- ¿Tienes LinkedIn? Descomenta y pon tu URL:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+-->
